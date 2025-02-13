@@ -1,20 +1,28 @@
 {
-    "informe" : [{
-
-        "PRODUCTOS" : {
-
-        "Producto" : "Fibra optica" ,
-        "precio cada mes" : 50.000 ,
-        "descuento" : "si" 
-}},
-        {  
-        "Producto" : "prospago" ,
-        "precio cada mes" : 50.000 ,
-        "descuento" : "no" 
-
-        }
-
-    
-
-]
-}
+    "informe": [
+        {
+            "PRODUCTOS": {
+                "Producto": "Fibra optica",
+                "precio cada mes": 50.0,
+                "descuento": "si"
+            }
+        },
+        {
+            "Producto": "prospago",
+            "precio cada mes": 50.0,
+            "descuento": "no"
+        },
+        {
+            "Producto": "pospago",
+            "precio cada mes": "70.000",
+            "descuento": ""
+        },
+        
+{
+    "Quejas" : [
+            {
+                "nombre" : "",
+                "queja" : ""
+            }
+        ]}
+]}

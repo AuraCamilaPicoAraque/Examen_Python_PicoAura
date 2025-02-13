@@ -2,7 +2,8 @@ import json
 from ModuloCliente import *
 from ModuloAd import *
 from Moduloservicio import *
-
+from ModuloBonificacion import *
+from menu import *
 ## Abrir
 
 def abrirJSON():
@@ -46,7 +47,15 @@ def MenuPrincipio ():
     opc = int(input("~~~ :"))
 
     if opc == 1 :
-        print("")
+        menuU ()
+        opcu = int(input("~~~ :"))
+
+        if opcu == 1 :
+            print("")
+        elif opcu == 2 :
+            print("")
+        elif opcu == 3 :
+            print("")
 
 
 
@@ -55,23 +64,27 @@ def MenuPrincipio ():
 
 
     elif opc == 2 :
-        print("")
 
-        AgregarUsuario ()
+        menuadministrador()
 
-        AgregarProducto()
+        opci = int(input("~~~ :"))
 
+        if opci == 1 :
+            AgregarUsuario ()
+        elif opci == 2 :
+            AgregarProducto()
+        elif opci == 3 :
+            eliminar ()
 
 
 
     elif opc == 3 :
-        exit()
+        bonificacion()
+
+
 
 
 usuario=abrirJSON()
-
-
-
 
 
 bo = True

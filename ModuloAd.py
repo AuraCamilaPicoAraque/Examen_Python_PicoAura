@@ -59,5 +59,19 @@ def AgregarUsuario ():
 
 
 
+def eliminar ():
+    abrir = abrirJSON ()
+    for i in range (len(abrir["clientes"])):
+        print("Usuarios #" , i + 1 , abrir["clientes"][i]["nombre"])
+
+        eliminar = input("¿A quien deseas eliminar?")
+        for i in range (len(abrir["clientes"])):
+            if abrir["clientes"][i]["nombre"] == eliminar :
+                del (abrir["clientes"][i])
+                guardarJSON
+
+
+
+
 
 

@@ -1,5 +1,7 @@
 import json
 from ModuloCliente import *
+from ModuloBonificacion import *
+
 
 ### abrir
 
@@ -41,7 +43,7 @@ def AgregarProducto():
 
     print("Se registro el dia de hoy un nuevo producto")
 
-    abrir["informe"]["PRODUCTOS"].append({  "Producto" : pro ,
+    abrir["informe"].append({  "Producto" : pro ,
                                 "precio cada mes" : mes ,
                                 "descuento" : "" ,
     })
