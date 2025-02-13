@@ -1,0 +1,37 @@
+{
+    "clientes" : [ {
+
+        "nombre" : "Jose" ,
+        "direccion" : " calle 11b 1b" ,
+        "telefono" : "3178499887" ,
+        "Año de inicio" : 2020 ,
+        
+        "Categoria" : {
+            "nuevo" : "" ,
+            "regular" : "0" ,
+            "leal" : ""
+
+        }
+
+    },
+    {
+
+        "nombre" : "Ana" ,
+        "direccion" : " calle 20 -30 " ,
+        "telefono" : "318395871" ,
+        "Año de inicio" : 2016 ,
+        
+        "Categoria" : {
+            "nuevo" : "" ,
+            "regular" : "" ,
+            "leal" : "0"
+
+        }
+
+    }
+
+
+
+]
+
+}

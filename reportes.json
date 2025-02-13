@@ -1,0 +1,20 @@
+{
+    "informe" : [{
+
+        "PRODUCTOS" : {
+
+        "Producto" : "Fibra optica" ,
+        "precio cada mes" : 50.000 ,
+        "descuento" : "si" 
+}},
+        {  
+        "Producto" : "prospago" ,
+        "precio cada mes" : 50.000 ,
+        "descuento" : "no" 
+
+        }
+
+    
+
+]
+}
