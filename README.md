@@ -1,3 +1,4 @@
+
 # Python - Examen
 Desarrollo de examen asignado por el profesor pedro relacionado a compañia de movistar....
 
@@ -5,14 +6,14 @@ Desarrollo de examen asignado por el profesor pedro relacionado a compañia de m
 | Indice | Titulo  |Descripcion|
 |--|--|--|
 | 1 |  [MenuPrincipal.py](https://github.com/AuraCamilaPicoAraque/Examen_Python_PicoAura/blob/master/MenuPrincipal.py "MenuPrincipal.py")| Script en Python que gestiona el menú principal del sistema, permitiendo la navegación entre los diferentes módulos.
-| 2 | [ModuloAd.py](https://github.com/AuraCamilaPicoAraque/Examen_Python_PicoAura/blob/master/ModuloAd.py "ModuloAd.py") |
-| 3 | [ModuloBonificacion.py](https://github.com/AuraCamilaPicoAraque/Examen_Python_PicoAura/blob/master/ModuloBonificacion.py "ModuloBonificacion.py")|
-| 4 | [ModuloCliente.py](https://github.com/AuraCamilaPicoAraque/Examen_Python_PicoAura/blob/master/ModuloCliente.py "ModuloCliente.py") |
-| 5 | [Moduloservicio.py](https://github.com/AuraCamilaPicoAraque/Examen_Python_PicoAura/blob/master/Moduloservicio.py "Moduloservicio.py") |
-| 6 | [Usuarios.json](https://github.com/AuraCamilaPicoAraque/Examen_Python_PicoAura/blob/master/Usuarios.json "Usuarios.json") |
-| 7 |  [clientes.json](https://github.com/AuraCamilaPicoAraque/Examen_Python_PicoAura/blob/master/clientes.json "clientes.json") |
-| 8 |  [menu.py](https://github.com/AuraCamilaPicoAraque/Examen_Python_PicoAura/blob/master/menu.py "menu.py") 
-| 9 | [reportes.json](https://github.com/AuraCamilaPicoAraque/Examen_Python_PicoAura/blob/master/reportes.json "reportes.json")  |
+| 2 | [ModuloAd.py](https://github.com/AuraCamilaPicoAraque/Examen_Python_PicoAura/blob/master/ModuloAd.py "ModuloAd.py") |Módulo en Python que maneja las funciones administrativas, como la gestión de usuarios, permisos y configuraciones del sistema.
+| 3 | [ModuloBonificacion.py](https://github.com/AuraCamilaPicoAraque/Examen_Python_PicoAura/blob/master/ModuloBonificacion.py "ModuloBonificacion.py")|Módulo en Python encargado de gestionar las bonificaciones, descuentos o incentivos aplicados a los clientes o usuarios.
+| 4 | [ModuloCliente.py](https://github.com/AuraCamilaPicoAraque/Examen_Python_PicoAura/blob/master/ModuloCliente.py "ModuloCliente.py") |Módulo en Python que maneja la información de los clientes, incluyendo su registro, consulta y actualización de datos.
+| 5 | [Moduloservicio.py](https://github.com/AuraCamilaPicoAraque/Examen_Python_PicoAura/blob/master/Moduloservicio.py "Moduloservicio.py") |Módulo en Python que gestiona los servicios ofrecidos, permitiendo su administración y asignación a los clientes.
+| 6 | [Usuarios.json](https://github.com/AuraCamilaPicoAraque/Examen_Python_PicoAura/blob/master/Usuarios.json "Usuarios.json") |Archivo JSON que almacena la información de los usuarios del sistema, incluyendo credenciales y roles.
+| 7 |  [clientes.json](https://github.com/AuraCamilaPicoAraque/Examen_Python_PicoAura/blob/master/clientes.json "clientes.json") |Archivo JSON que almacena los datos de los clientes, como nombres, contactos y servicios adquiridos.
+| 8 |  [menu.py](https://github.com/AuraCamilaPicoAraque/Examen_Python_PicoAura/blob/master/menu.py "menu.py")| Script en Python que maneja un menú dentro del sistema, posiblemente complementario al menú principal.
+| 9 | [reportes.json](https://github.com/AuraCamilaPicoAraque/Examen_Python_PicoAura/blob/master/reportes.json "reportes.json")  |Archivo JSON donde se almacenan los reportes generados, incluyendo estadísticas, análisis y datos relevantes sobre clientes y servicios.
 
 
 ### Instalaciones 
@@ -40,19 +41,6 @@ en caso de que quieras ejecutar un .json , no se podra ya que no saldra nada par
 
 Si da la casualidad de que estas en windows y no te deja ejecutar los archivos .py  puede ser porque no tienes instalado el python.org 
 
-
-
-
-## Descripción de los días...
-
-| Indice | Explicación  |
-|--|--|
-| Día 2 | Introducción a variables, tipos de datos y operadores en Python.  |
-| Día 3 | Condicionales y estructuras de control de flujo.  |
-| Día 3 (Repaso) | Ejercicios prácticos sobre los conceptos de condicionales.   |
-| Día 6 | Trabajo con bucles `for` y `while`.   |
-| Día 7 | Introducción a los módulos y cómo utilizarlos en Python.  |
-| Día 9 | Repaso de diccionarios y ejercicios de manipulación de datos.  |
 
 
 ## Explicación github.
